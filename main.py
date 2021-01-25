@@ -1,3 +1,5 @@
+# first clock
+# hello
 from tkinter import *
 import time
 from playsound import playsound
